@@ -1,0 +1,10 @@
+.item {
+  display: flex;
+  color: chocolate;
+  height: 1.8rem;
+  border: 1px pink dashed;
+}
+
+.cell {
+  border: 1px greenyellow dashed;
+}
